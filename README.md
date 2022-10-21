@@ -3,25 +3,25 @@
 
   &#xa0;
 
-  <!-- <a href="https://assignments.netlify.app">Demo</a> -->
+  <!-- <a href="https://tictactoe.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Assignments</h1>
+<h1 align="center">Tic-Tac-Toe</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/assignments?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/tictactoe?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/assignments?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/tictactoe?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/assignments?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/tictactoe?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/wmaugar/assignments?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/wmaugar/tictactoe?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/assignments?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/tictactoe?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/assignments?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/tictactoe?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/assignments?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/tictactoe?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -74,10 +74,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wmaugar/assignments
+$ git clone https://github.com/wmaugar/tictactoe
 
 # Access
-$ cd assignments
+$ cd tictactoe
 
 # Install dependencies
 $ yarn
